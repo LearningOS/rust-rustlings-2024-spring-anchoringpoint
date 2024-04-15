@@ -22,7 +22,7 @@
 //     println!("cargo:{}", your_command_in_string);
 //
 // Please see the official Cargo book about build scripts for more
-// information:
+// information: 
 // https://doc.rust-lang.org/cargo/reference/build-scripts.html
 //
 // In this exercise, we look for an environment variable and expect it to
@@ -33,8 +33,6 @@
 //
 // Execute `rustlings hint tests7` or use the `hint` watch subcommand for a
 // hint.
-
-// I AM NOT DONE
 
 fn main() {}
 
